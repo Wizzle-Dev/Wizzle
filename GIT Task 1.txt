@@ -1,0 +1,13 @@
+Name: Aminu Mahmoud Wali
+
+E-mail: ameenum.wali@gmail.com
+
+Slack Username: Wizzle
+
+Tracks: FrontEnd:HTML, CSS, Javascript
+
+	Mobile: Flutter, Kotlin
+	
+	Design: UI/UX
+
+	
